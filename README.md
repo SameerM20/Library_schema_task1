@@ -46,5 +46,5 @@ It involves designing a well-structured and normalized relational database schem
 - GitHub
   
 
-After uploading the repository to GitHub, submit the GitHub repository link in the form provided by the internship coordinator.
+
 
